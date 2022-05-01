@@ -7,5 +7,5 @@ https://docs.google.com/spreadsheets/d/1waSQnyNKjb-4tejr9YL1zsnOa0w-5eyFNCQ-XQss
 
 Google Spreadsheet with the BOM
 
-https://docs.google.com/spreadsheets/d/1LbbWG7kK2DUAg7DH9F7QnnANRxKo8QU_aeXPwAHZUvU/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1x9kV42z1AwtfDUi3yUOn3vNFVAzNhC1netF-YP7uujg/edit?usp=sharing
 
