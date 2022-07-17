@@ -284,8 +284,8 @@
           "T~L~860~-35~0~#0000FF~~9pt~~~~comment~N/A~1~start~gge88679~0~frame_date",
           "T~L~895~-175~0~#0000FF~~4pt~undefined~undefined~~comment~NOTE!~1~start~gge90308~0~pinpart",
           "T~L~830~-165~0~#0000FF~~4pt~undefined~undefined~~comment~TEC's will not have a footprint. Instead they will be soldered\\n to the board through a via connection.~1~start~gge90317~0~pinpart",
-          "F~part_netLabel_netPort~375~-710~0~gge90324~~0^^375~-710^^GND~#0000FF~353.5~-705~0~end~1~Times New Roman~8pt~gge90330^^PL~375 -710 370 -705 355 -705 355 -715 370 -715 375 -710~#0000FF~1~0~transparent~gge90336~0",
-          "F~part_netLabel_gnD~390~-705~0~gge90339~~0^^390~-705^^GND~#000000~377~-679~0~start~1~Times New Roman~9pt~gge90345^^PL~390 -695 390 -705~#000000~1~0~transparent~gge90351~0^^PL~381 -695 399 -695~#000000~1~0~transparent~gge90354~0^^PL~384 -693 396 -693~#000000~1~0~transparent~gge90357~0^^PL~387 -691 393 -691~#000000~1~0~transparent~gge90360~0^^PL~389 -689 391 -689~#000000~1~0~transparent~gge90363~0",
+          "F~part_netLabel_netPort~375~-710~0~gge90324~~0^^375~-710^^GND~#0000FF~353.5~-705~0~end~1~Times New Roman~8pt~flag_gge214^^PL~375 -710 370 -705 355 -705 355 -715 370 -715 375 -710~#0000FF~1~0~transparent~gge90336~0",
+          "F~part_netLabel_gnD~390~-705~0~gge90339~~0^^390~-705^^GND~#000000~377~-679~0~start~1~Times New Roman~9pt~flag_gge217^^PL~390 -695 390 -705~#000000~1~0~transparent~gge90351~0^^PL~381 -695 399 -695~#000000~1~0~transparent~gge90354~0^^PL~384 -693 396 -693~#000000~1~0~transparent~gge90357~0^^PL~387 -691 393 -691~#000000~1~0~transparent~gge90360~0^^PL~389 -689 391 -689~#000000~1~0~transparent~gge90363~0",
           "W~390 -705 390 -710 375 -710~#008800~1~0~none~gge90393~0",
           "J~200~-430~2.5~#CC0000~gge75897~0",
           "J~390~-430~2.5~#CC0000~gge76177~0",
@@ -311,9 +311,9 @@
         ],
         "BBox": {
           "x": 0,
-          "y": -806.5,
+          "y": -807,
           "width": 1149,
-          "height": 807
+          "height": 807.5
         },
         "colors": {}
       }
